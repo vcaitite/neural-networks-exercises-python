@@ -8,9 +8,11 @@
 *.tex
 
 #Para arquivos de enunciado:
-Enunciado.pdf
+Ex.pdf
+
 #Para database:
-databases/
+data/
+images/
 
 ### R ###
 # History files
@@ -56,6 +58,10 @@ vignettes/*.pdf
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
 /*_files/
+
+
+#ipynb:
+.ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/r
 
